@@ -1,54 +1,32 @@
-<div align="center">
+<img src="assets/pixel-desk.svg" width="100%" alt="像素画：树荫下的书桌，上面摆着显示器、琴键和一盆绿植。" />
 
-# Hi, I'm Jude 👋
+# Jude Chen
 
-**Full-stack developer · Frontend focused**
+**全栈开发 · 偏前端**　｜　数据科学与大数据技术本科在读
 
-Building thoughtful products, from the first idea to the final release.
+我写 Web 应用，也给自己写工具。用几个 AI 服务时，想在手机上一眼看清各家的剩余额度，于是做了 AI Usage。练琴时想让平板当谱架，就有了 ScoreStand。
 
-[Projects](#selected-projects) · [What I work with](#what-i-work-with) · [GitHub](https://github.com/nextroad-dev)
+## 精选项目
 
-</div>
+### 🎨 [MuseCanvas](https://github.com/nextroad-dev/MuseCanvas)
+在同一个创作工具里接入不同的图像和视频模型。每个供应商的参数和任务状态由插件处理，接入方式整理在 [Connector 规范](https://github.com/nextroad-dev/MuseCanvas-Connector) 里。
 
----
-
-### A little about me
-
-你好，我是 Jude，一名喜欢把想法做成真实产品的开发者。
-
-我主要做 **Web 全栈开发，偏前端**，也在探索 AI 应用、模型路由和开发者工具。从界面、交互到服务部署，我喜欢理解整个系统如何运转，也在意产品最终是否真正好用。
-
-- 🎓 数据科学与大数据技术专业，本科在读
-- 🛠️ 关注产品体验、工程实践与项目交付
-- 🌱 正在探索 AI 工程化与多模型应用
-- 🎵 代码之外，也喜欢音乐、植物和散步
-
-### Selected projects
-
-**[MuseCanvas](https://github.com/nextroad-dev/MuseCanvas)**  
-面向图像与视频生成的创作项目，探索多模型接入与可扩展的媒体生成能力。  
-[Connector 规范 →](https://github.com/nextroad-dev/MuseCanvas-Connector)
-
-**[AI Usage](https://github.com/nextroad-dev/AIUsage)**  
-一个查看多个 AI 服务用量与剩余额度的移动应用，让订阅状态更容易掌握。  
+### 📊 [AI Usage](https://github.com/nextroad-dev/AIUsage)
+把多个 AI 服务的剩余额度和重置时间放在一屏，打开手机就能看出哪个账号快用完了。  
 `React Native` · `Expo`
 
-**[Auto Router](https://github.com/nextroad-dev/Auto-Router)**  
-大模型自动路由服务，提供统一接入、模型能力筛选和故障转移。  
+### 🔀 [Auto Router](https://github.com/nextroad-dev/Auto-Router)
+客户端只需指定 `auto`，服务就会按请求所需的模型能力和上下文长度筛选上游；遇到可重试的故障时，再尝试同组的备用模型。  
 `Go` · `SQLite` · `Docker`
 
-**[ScoreStand](https://scorestand.pawmark.net)**  
-为练琴设计的数字谱架应用，关注乐谱阅读与练习体验。  
+### 🎼 [ScoreStand · 谱架](https://scorestand.pawmark.net)
+把 Android 平板放上琴架，用它读谱、翻页，跟着节拍器练习。  
 `Kotlin` · `Jetpack Compose`
 
-### What I work with
+## 常用技术
 
-**Frontend** 　TypeScript · Vue · React · Next.js  
-**Backend** 　Node.js · Go · Python  
-**Tools** 　　 Git · Docker · Linux
+**前端** · TypeScript / Vue / React / Next.js  
+**后端** · Node.js / Go / Python  
+**开发与部署** · Git / Docker / Linux
 
----
-
-<div align="center">
-  <sub>Always curious. Always building.</sub>
-</div>
+🌱 合上电脑之后，喜欢练琴、养花，也喜欢出门走走。
