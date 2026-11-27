@@ -52,7 +52,7 @@
 
 **Web 前端**　`TypeScript` · `React` · `Next.js` · `Vue` · `Tailwind CSS`  
 **客户端**　　`React Native` · `Expo`  
-**后端服务**　`Node.js` · `Python` · `PostgreSQL`  
+**后端服务**　`Node.js` · `PostgreSQL`  
 **开发与部署**　`Git` · `Docker` · `Linux`
 
 ---
